@@ -1,0 +1,15 @@
+Analyzing mini_catalog_app...                                   
+
+   info - Parameter 'key' could be a super parameter - lib\main.dart:10:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\cart_screen.dart:9:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\cart_screen.dart:83:41 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\screens\home_screen.dart:12:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\product_detail_screen.dart:8:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\product_detail_screen.dart:114:35 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\widgets\cart_item_card.dart:8:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\cart_item_card.dart:24:33 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\widgets\product_card.dart:8:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\product_card.dart:24:35 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\widgets\product_card.dart:95:9 - use_super_parameters
+  error - The name 'MyApp' isn't a class - test\widget_test.dart:16:35 - creation_with_non_type
+
