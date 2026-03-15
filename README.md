@@ -8,6 +8,7 @@ Merhaba, adım **Samet Sarıkaya**. Bu depo, Flutter eğitim dönemimiz sonunda 
 
 Bu uygulama, bir e-ticaret uygulamasının temel sayfalarını içerir. Projenin ana odağı widget ağacını kurmak, sayfalar arası geçişi sağlamak ve uzak bir sunucudan (internetten) verileri çekerek dinamik bir arayüz oluşturmaktı.
 
+* **Kullanılan Flutter Sürümü:** Dart `^3.11.0` (Flutter SDK)
 * **Durum Yönetimi (State):** Sadece `setState` kullanıldı, ek bir paket eklenmedi.
 * **Ağ İstekleri:** `http` paketi kullanılarak internet üzerinden gerçek veriler çekildi.
 * **Veri Kaynağı:** Ürün bilgileri için `https://dummyjson.com/products` API adresi kullanıldı.
